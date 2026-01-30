@@ -134,6 +134,11 @@ dist
 !.yarn/sdks
 !.yarn/versions
 
+# Expo
+.expo/
+dist/
+web-build/
+
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
